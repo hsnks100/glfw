@@ -1,0 +1,4 @@
+/home/ksoo/glfw/glad/CMakeFiles/rebuild_cache.dir
+/home/ksoo/glfw/glad/CMakeFiles/edit_cache.dir
+/home/ksoo/glfw/glad/CMakeFiles/glad-generate-files.dir
+/home/ksoo/glfw/glad/CMakeFiles/glad.dir
